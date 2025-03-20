@@ -67,6 +67,7 @@ Generate images and scores：
 ![image](https://github.com/user-attachments/assets/5f49d7d3-5134-4ecb-92bd-b9928253276b)
 
 Save to local：
+
 ![mask_2_score_1 008](https://github.com/user-attachments/assets/59ba0887-fc75-4784-8ccd-ab389cf3d974)
 
 
